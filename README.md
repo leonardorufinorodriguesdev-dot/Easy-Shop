@@ -13,3 +13,4 @@
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
+<a>Link do site https://leonardorufinorodriguesdev-dot.github.io/Easy-Shop/</a>
